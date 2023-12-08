@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/FED-REF-2023-PJ-REACT/static/css/main.e03affe9.css",
-    "main.js": "/FED-REF-2023-PJ-REACT/static/js/main.4a369def.js",
+    "main.css": "/FED-REF-2023-PJ-REACT/static/css/main.601706bd.css",
+    "main.js": "/FED-REF-2023-PJ-REACT/static/js/main.6f0111a3.js",
     "static/media/01.png": "/FED-REF-2023-PJ-REACT/static/media/01.8028f3cc1fe7ad115ee7.png",
     "index.html": "/FED-REF-2023-PJ-REACT/index.html",
-    "main.e03affe9.css.map": "/FED-REF-2023-PJ-REACT/static/css/main.e03affe9.css.map",
-    "main.4a369def.js.map": "/FED-REF-2023-PJ-REACT/static/js/main.4a369def.js.map"
+    "main.601706bd.css.map": "/FED-REF-2023-PJ-REACT/static/css/main.601706bd.css.map",
+    "main.6f0111a3.js.map": "/FED-REF-2023-PJ-REACT/static/js/main.6f0111a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.e03affe9.css",
-    "static/js/main.4a369def.js"
+    "static/css/main.601706bd.css",
+    "static/js/main.6f0111a3.js"
   ]
 }
